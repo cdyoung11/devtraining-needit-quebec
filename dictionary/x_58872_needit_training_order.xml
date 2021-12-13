@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Training order" max_length="40" name="x_58872_needit_training_order" sizeclass="0" type="collection">
+        <element label="Trainees Details" max_length="40" name="trainees_details" type="string"/>
+        <element label="Training" max_length="40" name="training" type="string"/>
+    </element>
+</database>
